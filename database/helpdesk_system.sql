@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 29, 2021 at 06:08 PM
+-- Generation Time: Feb 28, 2024 at 06:08 PM
 -- Server version: 10.4.20-MariaDB
 -- PHP Version: 7.3.29
 
@@ -125,8 +125,8 @@ CREATE TABLE `hd_users` (
 --
 
 INSERT INTO `hd_users` (`id`, `email`, `password`, `create_date`, `name`, `user_type`, `status`) VALUES
-(1, 'admin@andreu.com', '202cb962ac59075b964b07152d234b70', '2021-10-25 23:24:33', 'Kane Wiliam ', 'admin', 1),
-(2, 'smith@webdamn.com', '202cb962ac59075b964b07152d234b70', '2021-10-25 23:24:46', 'Jhon Smith', 'user', 1);
+(1, 'admin@andreu.com', '202cb962ac59075b964b07152d234b70', '2023-10-25 23:24:33', 'Andreu ', 'admin', 1),
+(2, 'smith@webdamn.com', '202cb962ac59075b964b07152d234b70', '2023-10-25 23:24:46', 'Jhon Smith', 'user', 1);
 
 --
 -- Indexes for dumped tables
